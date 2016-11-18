@@ -1,0 +1,16 @@
+Hello viewer,
+
+This is a System for child education (Using c) . In hear we use sound system in c compiler .
+
+If u want to run this . Plz follow this stap ....
+
+         * Download Main Code.zip  & Sound file
+         * Unzip Sound file and put thouse file in "D" drive .
+         * Unzip Main Code and run .
+
+
+Thank you all .
+
+
+Ashraful Islam Sheiblu
+  isheiblu@gmail.com
